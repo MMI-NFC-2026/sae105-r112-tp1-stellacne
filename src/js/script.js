@@ -4,7 +4,7 @@ aMettreEnRouge.style.color = "red";
 
 enRougeSuiteAClick = document.querySelectorAll("#enRougeSuiteAClick");
 enRougeSuiteAClick.addEventListener("click", (evt)=>{
-        enRougeSuiteAclick.style.color = "red"
+    enRougeSuiteAclick.style.color = "red"
     });
 
 const collH2 = document.querySelectorAll("h2");
