@@ -1,10 +1,10 @@
 // TODO
-aMettreEnRouge = document.querySelector("#aMettreEnRouge");
+const aMettreEnRouge = document.querySelector("#aMettreEnRouge");
 aMettreEnRouge.style.color = "red";
 
-enRougeSuiteAClick = document.querySelectorAll("#enRougeSuiteAClick");
+const enRougeSuiteAClick = document.querySelectorAll("#enRougeSuiteAClick");
 enRougeSuiteAClick.addEventListener("click", (evt)=>{
-    enRougeSuiteAclick.style.color = "red"
+    enRougeSuiteAClick.style.color = "red"
     });
 
 const collH2 = document.querySelectorAll("h2");
